@@ -1,0 +1,17 @@
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\x86\Debug\VTKapp.exe
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\x86\Debug\VTKapp.pdb
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\x86\Debug\Kitware.VTK.dll
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\x86\Debug\Kitware.mummy.Runtime.dll
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\x86\Debug\Kitware.VTK.xml
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\x86\Debug\Kitware.VTK.Unmanaged.dll
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\x86\Debug\Microsoft.VC80.CRT.manifest
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\x86\Debug\msvcm80.dll
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\x86\Debug\msvcp80.dll
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\x86\Debug\msvcr80.dll
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\x86\Debug\Kitware.mummy.Runtime.Unmanaged.dll
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\x86\Debug\VTKapp.csprojResolveAssemblyReference.cache
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\x86\Debug\VTKapp.Form1.resources
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\x86\Debug\VTKapp.Properties.Resources.resources
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\x86\Debug\VTKapp.csproj.GenerateResource.Cache
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\x86\Debug\VTKapp.exe
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\x86\Debug\VTKapp.pdb

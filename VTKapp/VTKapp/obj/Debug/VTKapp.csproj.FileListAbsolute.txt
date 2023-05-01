@@ -1,0 +1,8 @@
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\Debug\VTKapp.exe
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\bin\Debug\VTKapp.pdb
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\Debug\VTKapp.csprojResolveAssemblyReference.cache
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\Debug\VTKapp.Form1.resources
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\Debug\VTKapp.Properties.Resources.resources
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\Debug\VTKapp.csproj.GenerateResource.Cache
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\Debug\VTKapp.exe
+D:\FAJLOVI\C#\Primeri 2012\VTKapp\VTKapp\obj\Debug\VTKapp.pdb
